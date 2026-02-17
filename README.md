@@ -63,5 +63,3 @@ Business Insights
 - Customer segmentation can support targeted marketing strategies.
 
 ---
-
-1. Install required libraries:
